@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<The Spread of YouTube Misinformation Through Twitter>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<In our Capstone Project, we explore the spread of misinformation online. More specifically, we look at the spread of misinformation across Twitter and YouTube because of the large role these two social media platforms play in the dissemination of news and information. Our main objectives are to understand how YouTube videos contribute to spreading misinformation on Twitter, evaluate how effectively YouTube is removing misinformation and if these policies also prevent users from engaging with misinformation. We take a novel approach of analyzing tweets, YouTube video captions, and other metadata using NLP to determine the presence of misinformation and investigate how individuals interact or spread misinformation. Our research focuses on the domain of public health as this is the subject of many conspiracies, varying opinions, and fake news. 
+>
